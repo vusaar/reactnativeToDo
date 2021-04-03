@@ -1,0 +1,16 @@
+{
+  "name": "firstReactNativeApp",
+  "displayName": "firstReactNativeApp",
+  "expo": {
+    "name": "ToDoApp",
+    "slug": "todoapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "My first react native app. A to do list app.",
+    "android": {
+      "package": "com.vusaar.todoapp"
+    }
+  }
+}
